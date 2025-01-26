@@ -1,5 +1,14 @@
-## Hi there 👋
+Hello, I am Lance
 
+As of now, I am a student currently learning:
+- C++
+- Java
+- Javascript
+- Linear Algebra
+- Discrete Mathematics
+
+One fact about me is 
+- I thrive more in a challenging environment
 <!--
 **lancebrav/lancebrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
